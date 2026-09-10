@@ -1,7 +1,13 @@
 # Weather Scope
 
-A premium weather search application built with **Java Spring Boot**, **React**, and **Open-Meteo API**.
-Designed for performance, aesthetics, and simplicity.
+A lightweight, keyless weather app combining Spring Boot and React. Highlights real-time weather tracking, smart server-side caching for optimal load times, and a beautiful glassmorphism design.
+
+## Key Highlights Covered:
+
+- **Architecture**: Java Spring Boot + React
+- **Data Provider**: Open-Meteo (keyless setup)
+- **Optimization**: In-memory / server-side caching (10-minute TTL)
+- **Design System**: Glassmorphism UI & responsive styling
 
 ## Features
 - **Real-time Weather**: Fetches up-to-date weather data for any city.
